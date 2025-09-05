@@ -52,12 +52,12 @@ body {
   border-radius: 100%;
 }
 
-#appBg.orange {
+#appBg .orange {
   background-color: rgb(253, 149, 3) !important;
   color: white !important;
 }
 
- #appBg.gray {
+ #appBg .gray {
   background-color: rgb(51, 51, 51) !important;
   color: white !important;
  }
